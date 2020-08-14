@@ -13,7 +13,7 @@
 ---------------------------------------------------------------------------------------------------------------
 
 [The solution notebook can be found here](https://github.com/MehaRima/Coursera_Capstone)
-#### File name : testing.ipynb
+#### File name : [testing.ipynb](/ADS_Assignments/Week-1/testing.ipynb)
 
 ## Please Note:
 
