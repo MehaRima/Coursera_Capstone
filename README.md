@@ -10,7 +10,9 @@
 - Import the Numpy library as np.
 - Print the following the statement: *Hello Capstone Project Course!*
 - Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
+---------------------------------------------------------------------------------------------------------------
 
+[The solution notebook can be found here](https://github.com/MehaRima/Coursera_Capstone)
 
 ## Please Note:
 
